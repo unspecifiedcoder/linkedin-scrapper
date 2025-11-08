@@ -1,4 +1,4 @@
-# 🚀 LinkedIn Profile Scraper (Assignment 1)
+# 🚀 LinkedIn Profile Scraper 
 
 This project demonstrates a complete LinkedIn profile scraper built with **Python + Playwright** as part of the Aeroleads assignment.
 
